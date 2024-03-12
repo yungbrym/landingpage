@@ -31,12 +31,12 @@
   #showcase h2{
     font-size:30px;
     line-height:1.2;
-    color:#f7e70a;
+    color:#f4c031;
     
 }
   #showcase p{
     font-size:29px;
-    color:#f7e70a;
+    color:#f4c031;
   }
   
   #showcase .button{
@@ -50,11 +50,7 @@
     margin-top:20px;
   }
   
-  /* #showcase .button:hover{
-    background:#926239;
-    color:#fff;
-  }
-   */
+ 
   #section-a{
     padding:20px;
     background:#926239;
